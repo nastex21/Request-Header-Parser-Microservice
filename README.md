@@ -1,11 +1,8 @@
 # Request-Header-Parser-Microservice
 
 Challenge: https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+
 My Completed Demo: https://timestamp-proj.glitch.me/
-
-Freecodecamp challenge
-
-Challenge: https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
 
 API Project: Request Header Parser Microservice
 
